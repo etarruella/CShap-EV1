@@ -1,0 +1,14 @@
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\bin\Release\net9.0\VideoGame.exe
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\bin\Release\net9.0\VideoGame.deps.json
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\bin\Release\net9.0\VideoGame.runtimeconfig.json
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\bin\Release\net9.0\VideoGame.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\bin\Release\net9.0\VideoGame.pdb
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.GeneratedMSBuildEditorConfig.editorconfig
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.AssemblyInfoInputs.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.AssemblyInfo.cs
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.csproj.CoreCompileInputs.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\refint\VideoGame.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.pdb
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\VideoGame.genruntimeconfig.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Mis documentos\ErikT-Evaluable1\VideoGame\obj\Release\net9.0\ref\VideoGame.dll
